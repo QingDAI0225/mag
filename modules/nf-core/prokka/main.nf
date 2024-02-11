@@ -40,7 +40,7 @@ process PROKKA {
         $args \\
         --cpus $task.cpus \\
         --prefix $prefix \\
-        --centre X \\
+        --centre XXX \\
         --compliant \\
         $proteins_opt \\
         $prodigal_tf \\
